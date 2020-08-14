@@ -1,2 +1,2 @@
 # recommender
-project on recommender systems using SVD 
+This is a project on movie recommendations.In this we used SVD for predicting the ratings of different users.By giving the title of the movie the user saw and the user's Id we will be recommending the user top 10 movies. In this we will be recommending the movies according to the cast, director ,the keywords of the movie and also the predicted ratings using SVD.We used CountVectorizer and linear krenel in this for getting features out of the cast,director and the keywords of the particular movie.
